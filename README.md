@@ -6,5 +6,5 @@
 
 
 # Unstructured data:
-- using Transfer Learning and TensorFlow 2.0 to Classify Different Dog Breeds 🐶
+- using transfer learning and TensorFlow 2.0 to classify different dog breeds 🐶
 
